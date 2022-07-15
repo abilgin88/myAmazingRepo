@@ -1,4 +1,5 @@
 - [x] plan the roadmap
 - [ ] Finigh git roadmap
-- [ ] Do the challange
+- [x ] Do the challange
+- [ ] Adding new test
 - [ ] This is for checking staging are
